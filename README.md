@@ -40,6 +40,5 @@ The dataset contains order details such as order ID, date, customer gender, age 
 ---
 
 ##  Dashboard / Analysis Preview
-(Add screenshot here if you have one)
-```md
+https://github.com/RudrakshiShukla/Vrinda-store-excel-analysis/blob/main/Screenshot%202026-01-25%20221058.png
 ![Vrinda Store Sales Analysis](Vrinda_Store_Dashboard.png)
